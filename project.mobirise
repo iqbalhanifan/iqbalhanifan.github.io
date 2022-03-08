@@ -67,7 +67,8 @@
     "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.6.3",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
